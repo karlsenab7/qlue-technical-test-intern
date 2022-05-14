@@ -22,6 +22,6 @@ def countList(temp:list[int]):
         sum += x
     return sum
 
-n = int(input())
+n = int(input("Please Input Number: "))
 
 getCombination(0, 0, [], n)
