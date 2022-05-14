@@ -4,17 +4,21 @@ npm install fs
 npm install express
 npm install axios
 ```
-
+___
 ## Run server using command :
 
 ```
 node index.js
 ```
-
+___
 ## Get Raw Data
-
-<a href="http://localhost:3000/getRawData">http://localhost:3000/getRawData</a>
-
+### Get the raw json file through this link
+```
+http://localhost:3000/getRawData
+```
+___
 ## Get Parsed Data
-
-<a href="http://localhost:3000/getParsedData">http://localhost:3000/getParsedData</a>
+### Get the parsed json file through this link
+```
+http://localhost:3000/getParsedData
+```
